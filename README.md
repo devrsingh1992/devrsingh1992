@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software architecture
 - 📫 How to reach me: 
     - :email: devrsingh1992@gmail.com
-    - :iphone: +91 9762 137636
+    - :iphone: +91 9404520736
 
 <!---
 devrsingh1992/devrsingh1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
